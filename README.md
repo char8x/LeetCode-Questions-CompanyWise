@@ -1,0 +1,202 @@
+# 统计各大公司出题频率
+
+- [Two Sum](https://leetcode.com/problems/two-sum) - Easy - 207
+- [LRU Cache](https://leetcode.com/problems/lru-cache) - Medium - 177
+- [Number of Islands](https://leetcode.com/problems/number-of-islands) - Medium - 165
+- [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) - Easy - 162
+- [Merge Intervals](https://leetcode.com/problems/merge-intervals) - Medium - 142
+- [3Sum](https://leetcode.com/problems/3sum) - Medium - 115
+- [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) - Hard - 110
+- [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) - Medium - 109
+- [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) - Easy - 108
+- [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) - Medium - 107
+- [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) - Easy - 107
+- [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) - Hard - 105
+- [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) - Medium - 105
+- [Group Anagrams](https://leetcode.com/problems/group-anagrams) - Medium - 103
+- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) - Easy - 103
+- [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) - Medium - 92
+- [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) - Medium - 90
+- [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) - Easy - 88
+- [Word Break](https://leetcode.com/problems/word-break) - Medium - 85
+- [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) - Medium - 84
+- [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) - Hard - 83
+- [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) - Medium - 81
+- [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) - Medium - 79
+- [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) - Hard - 79
+- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) - Easy - 78
+- [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) - Medium - 77
+- [Word Ladder](https://leetcode.com/problems/word-ladder) - Medium - 76
+- [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) - Medium - 75
+- [Coin Change](https://leetcode.com/problems/coin-change) - Medium - 75
+- [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) - Medium - 74
+- [Word Search](https://leetcode.com/problems/word-search) - Medium - 72
+- [Integer to English Words](https://leetcode.com/problems/integer-to-english-words) - Hard - 71
+- [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) - Hard - 71
+- [Permutations](https://leetcode.com/problems/permutations) - Medium - 70
+- [First Missing Positive](https://leetcode.com/problems/first-missing-positive) - Hard - 69
+- [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) - Medium - 68
+- [Min Stack](https://leetcode.com/problems/min-stack) - Easy - 68
+- [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) - Medium - 68
+- [Move Zeroes](https://leetcode.com/problems/move-zeroes) - Easy - 68
+- [Decode String](https://leetcode.com/problems/decode-string) - Medium - 66
+- [Design HashMap](https://leetcode.com/problems/design-hashmap) - Easy - 66
+- [Course Schedule](https://leetcode.com/problems/course-schedule) - Medium - 66
+- [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) - Hard - 66
+- [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) - Hard - 65
+- [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii) - Medium - 65
+- [Decode Ways](https://leetcode.com/problems/decode-ways) - Medium - 65
+- [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) - Medium - 65
+- [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) - Hard - 62
+- [Max Area of Island](https://leetcode.com/problems/max-area-of-island) - Medium - 62
+- [Design Hit Counter](https://leetcode.com/problems/design-hit-counter) - Medium - 61
+- [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) - Medium - 61
+- [Text Justification](https://leetcode.com/problems/text-justification) - Hard - 61
+- [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) - Medium - 60
+- [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) - Easy - 60
+- [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) - Easy - 60
+- [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) - Easy - 59
+- [Valid Anagram](https://leetcode.com/problems/valid-anagram) - Easy - 59
+- [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) - Medium - 58
+- [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) - Medium - 58
+- [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) - Medium - 57
+- [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) - Medium - 57
+- [Rotate Image](https://leetcode.com/problems/rotate-image) - Medium - 57
+- [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) - Easy - 57
+- [Next Permutation](https://leetcode.com/problems/next-permutation) - Medium - 55
+- [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store) - Medium - 54
+- [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) - Easy - 54
+- [Word Search II](https://leetcode.com/problems/word-search-ii) - Hard - 53
+- [Combination Sum](https://leetcode.com/problems/combination-sum) - Medium - 53
+- [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) - Medium - 53
+- [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) - Medium - 53
+- [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) - Medium - 52
+- [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) - Medium - 52
+- [String Compression](https://leetcode.com/problems/string-compression) - Easy - 52
+- [Pow(x;n)](https://leetcode.com/problems/powx-n) - Medium - 51
+- [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) - Medium - 51
+- [Alien Dictionary](https://leetcode.com/problems/alien-dictionary) - Hard - 50
+- [Basic Calculator](https://leetcode.com/problems/basic-calculator) - Hard - 50
+- [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary) - Medium - 50
+- [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) - Medium - 50
+- [Edit Distance](https://leetcode.com/problems/edit-distance) - Hard - 50
+- [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) - Easy - 50
+- [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words) - Medium - 49
+- [Friend Circles](https://leetcode.com/problems/friend-circles) - Medium - 49
+- [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) - Hard - 49
+- [House Robber](https://leetcode.com/problems/house-robber) - Easy - 49
+- [Sort Colors](https://leetcode.com/problems/sort-colors) - Medium - 48
+- [Roman to Integer](https://leetcode.com/problems/roman-to-integer) - Easy - 48
+- [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) - Easy - 48
+- [Reverse String](https://leetcode.com/problems/reverse-string) - Easy - 48
+- [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) - Easy - 48
+- [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) - Easy - 48
+- [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) - Medium - 47
+- [Integer to Roman](https://leetcode.com/problems/integer-to-roman) - Medium - 47
+- [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) - Easy - 47
+- [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) - Medium - 47
+- [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) - Medium - 46
+- [Maximal Square](https://leetcode.com/problems/maximal-square) - Medium - 46
+- [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) - Hard - 46
+- [Reverse Integer](https://leetcode.com/problems/reverse-integer) - Easy - 46
+- [Employee Free Time](https://leetcode.com/problems/employee-free-time) - Hard - 45
+- [Word Break II](https://leetcode.com/problems/word-break-ii) - Hard - 45
+- [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal) - Medium - 45
+- [Unique Paths](https://leetcode.com/problems/unique-paths) - Medium - 45
+- [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight) - Medium - 45
+- [Implement strStr()](https://leetcode.com/problems/implement-strstr) - Easy - 45
+- [Subsets](https://leetcode.com/problems/subsets) - Medium - 44
+- [Jump Game](https://leetcode.com/problems/jump-game) - Medium - 44
+- [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) - Medium - 44
+- [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) - Medium - 44
+- [Container With Most Water](https://leetcode.com/problems/container-with-most-water) - Medium - 43
+- [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) - Hard - 43
+- [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) - Medium - 43
+- [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) - Easy - 43
+- [Happy Number](https://leetcode.com/problems/happy-number) - Easy - 43
+- [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) - Easy - 43
+- [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) - Easy - 42
+- [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii) - Medium - 42
+- [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) - Medium - 42
+- [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) - Hard - 42
+- [Add Strings](https://leetcode.com/problems/add-strings) - Easy - 42
+- [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) - Medium - 41
+- [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) - Medium - 41
+- [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) - Hard - 41
+- [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) - Medium - 41
+- [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) - Hard - 41
+- [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) - Medium - 41
+- [Count Primes](https://leetcode.com/problems/count-primes) - Easy - 41
+- [Word Ladder II](https://leetcode.com/problems/word-ladder-ii) - Hard - 40
+- [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) - Medium - 40
+- [Reorganize String](https://leetcode.com/problems/reorganize-string) - Medium - 40
+- [Path Sum II](https://leetcode.com/problems/path-sum-ii) - Medium - 40
+- [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) - Medium - 40
+- [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) - Medium - 40
+- [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) - Easy - 40
+- [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) - Medium - 39
+- [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) - Easy - 39
+- [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) - Hard - 39
+- [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) - Hard - 39
+- [Find Peak Element](https://leetcode.com/problems/find-peak-element) - Medium - 39
+- [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) - Medium - 39
+- [LFU Cache](https://leetcode.com/problems/lfu-cache) - Hard - 38
+- [N-Queens](https://leetcode.com/problems/n-queens) - Hard - 38
+- [Perfect Squares](https://leetcode.com/problems/perfect-squares) - Medium - 38
+- [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) - Medium - 38
+- [Game of Life](https://leetcode.com/problems/game-of-life) - Medium - 38
+- [Multiply Strings](https://leetcode.com/problems/multiply-strings) - Medium - 38
+- [Insert Interval](https://leetcode.com/problems/insert-interval) - Hard - 37
+- [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) - Medium - 37
+- [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) - Easy - 37
+- [Flood Fill](https://leetcode.com/problems/flood-fill) - Easy - 36
+- [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) - Medium - 36
+- [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array) - Medium - 36
+- [3Sum Closest](https://leetcode.com/problems/3sum-closest) - Medium - 36
+- [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node) - Medium - 36
+- [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections) - Medium - 36
+- [Clone Graph](https://leetcode.com/problems/clone-graph) - Medium - 36
+- [Sqrt(x)](https://leetcode.com/problems/sqrtx) - Easy - 36
+- [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) - Easy - 36
+- [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe) - Medium - 35
+- [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) - Hard - 35
+- [Missing Number](https://leetcode.com/problems/missing-number) - Easy - 35
+- [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) - Medium - 35
+- [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) - Easy - 35
+- [Single Number](https://leetcode.com/problems/single-number) - Easy - 35
+- [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) - Medium - 35
+- [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters) - Hard - 34
+- [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree) - Medium - 34
+- [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system) - Hard - 34
+- [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree) - Medium - 34
+- [Reorder List](https://leetcode.com/problems/reorder-list) - Medium - 34
+- [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst) - Medium - 34
+- [Combination Sum II](https://leetcode.com/problems/combination-sum-ii) - Medium - 34
+- [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) - Medium - 34
+- [Plus One](https://leetcode.com/problems/plus-one) - Easy - 34
+- [Task Scheduler](https://leetcode.com/problems/task-scheduler) - Medium - 34
+- [Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings) - Hard - 33
+- [Jump Game II](https://leetcode.com/problems/jump-game-ii) - Hard - 33
+- [Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii) - Hard - 33
+- [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) - Easy - 33
+- [Majority Element](https://leetcode.com/problems/majority-element) - Easy - 33
+- [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) - Medium - 33
+- [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) - Easy - 33
+- [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity) - Medium - 32
+- [Max Stack](https://leetcode.com/problems/max-stack) - Easy - 32
+- [Design Circular Queue](https://leetcode.com/problems/design-circular-queue) - Medium - 32
+- [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets) - Medium - 32
+- [Remove K Digits](https://leetcode.com/problems/remove-k-digits) - Medium - 32
+- [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) - Easy - 32
+- [Frog Jump](https://leetcode.com/problems/frog-jump) - Hard - 31
+- [Accounts Merge](https://leetcode.com/problems/accounts-merge) - Medium - 31
+- [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) - Medium - 31
+- [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst) - Medium - 31
+- [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst) - Medium - 31
+- [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) - Easy - 31
+- [Rotate Array](https://leetcode.com/problems/rotate-array) - Easy - 31
+- [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) - Easy - 31
+- [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design) - Medium - 30
+- [Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list) - Medium - 30
+- [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii) - Hard - 30
+- [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream) - Easy - 30
